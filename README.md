@@ -1,7 +1,7 @@
 ## Hi there 👋
 # 👋 Hi, I'm Archit
 
-🎓 B.Tech Student | 💻 Aspiring Developer
+🎓 B.Tech AIML Student | 💻 Aspiring Developer
 ☁️ Cloud & AI Enthusiast | 🚀 Strengthening fundamentals in DSA & programming
 
 
